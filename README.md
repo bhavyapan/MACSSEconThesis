@@ -1,5 +1,5 @@
 # Gender Identity and Representation in the Context of Economic Development in India 
-### Thesis submitted in partial fulfillment of the requirements for the MA degree in the Master of Arts in Computational Social Science - Economics 
+**Thesis submitted in partial fulfillment of the requirements for the MA degree in the Master of Arts in Computational Social Science with a concentration in Economics**
 ### by Bhavya Pandey 
 
 This code repository organises and collects the data as well as analysis files for this project. 
