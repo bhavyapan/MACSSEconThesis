@@ -14,3 +14,5 @@ Code for data cleaning and analysis is provided as part of this replication pack
 * The folder [`Data Exploration Notebooks/`](https://github.com/bhavyapan/MACSSEconThesis/tree/main/Data%20Exploration%20Notebooks) organises code notebooks delving into the exploration of the two data sources.
 * The [`Computational_Analysis.ipynb`](https://github.com/bhavyapan/MACSSEconThesis/blob/main/Computational_Analysis.ipynb) notebook performs all the NLP tasks of creating the outcome variables. It must be run using a GPU unit on cloud/locally to complete the classification tasks performance in ~40-60 minutes of time.
 * The difference-in-differences results are stored in the [`DiD Results`](https://github.com/bhavyapan/MACSSEconThesis/tree/main/DiD%20Results) folder.
+* The data for the difference-in-differences analysis can be accessed at [this Drive link](https://drive.google.com/file/d/1VGXf8npnNV0sLhQUUBSGnvqdv5ISJ-qd/view?usp=sharing).
+* The `.do` file for replicating the difference-in-differences analysis is 
